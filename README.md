@@ -1,1 +1,1 @@
-# automation_on_python
+# Repository from Python training
